@@ -6,7 +6,6 @@
 
 A data-driven analytical dashboard studying FC Barcelona's five UEFA Champions League / European Cup winning seasons.
 
-![Hero](docs/hero.png)
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org/)
