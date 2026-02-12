@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚽ Barça UCL Winning Campaigns
+#  Barça UCL Winning Campaigns
 
 **What does a Champions League–winning Barcelona side look like?**
 
