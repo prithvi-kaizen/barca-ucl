@@ -36,25 +36,25 @@ This platform analyzes how Barcelona won its Champions League titles across diff
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🏟️ Season Deep Dive
+###  Season Deep Dive
 Select any winning campaign for a complete analytical breakdown:
 - Season snapshot with stat cards (goals, clean sheets, win rate, possession)
 - Match dominance analysis with line and bar charts
 - Home vs away performance breakdown
 - Full match log with W/D/L badges and scorers
 
-### 🏆 Knockout Journey Explorer
+###  Knockout Journey Explorer
 Step-by-step visualization from Round of 16 to the Final — aggregate scores, key contributors, and match context for every knockout tie.
 
-### 👤 Player Contribution Engine
+###  Player Contribution Engine
 - Goals + assists contribution share per season
 - Per-90 minutes metrics table
 - Cross-campaign top scorer comparison
 - Aggregated player stats across all winning campaigns
 
-### 📊 Cross-Season Comparison
+###  Cross-Season Comparison
 Compare all five winning teams across:
 - Goals per match & goals conceded per match
 - Win rate & clean sheet percentage
@@ -64,7 +64,7 @@ Compare all five winning teams across:
 
 ---
 
-## 📸 Screenshots
+
 
 <details>
 <summary>Season Detail — 2008-09 (Guardiola's Treble)</summary>
@@ -89,7 +89,7 @@ Compare all five winning teams across:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -102,7 +102,7 @@ Compare all five winning teams across:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -135,7 +135,7 @@ python3 scripts/generate_data.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 barca-ucl/
@@ -168,7 +168,7 @@ barca-ucl/
 
 ---
 
-## 📐 Analytical Metrics
+##  Analytical Metrics
 
 | Metric | Formula |
 |--------|---------|
@@ -178,7 +178,7 @@ barca-ucl/
 
 ---
 
-## 📊 Data Integrity
+##  Data Integrity
 
 > **All data is real, verifiable historical data.**
 
@@ -189,7 +189,7 @@ barca-ucl/
 
 ---
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 - **Minimal and archival** — the interface feels like a digital research notebook
 - **Data-first hierarchy** — numbers lead, decorations follow
@@ -198,13 +198,13 @@ barca-ucl/
 
 ---
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Data Sources**: UEFA.com, FBref, Wikipedia
 - **Charting**: Recharts
